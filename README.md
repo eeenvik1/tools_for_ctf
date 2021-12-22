@@ -16,3 +16,9 @@
  BinToStr
  Шифр Цезаря по английскому алфавиту (работает криво)
  ```
+## Example
+XOR
+![alt text](https://github.com/eeenvik1/tools_for_ctf/blob/main/example_xor.png?raw=true)
+
+Побитовый сдвиг
+![alt text](https://github.com/eeenvik1/tools_for_ctf/blob/main/example_bin.png?raw=true)
